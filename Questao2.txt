@@ -1,0 +1,4 @@
+Para ambas solicitações, utilzar as branchs de suporte.
+Para a correção de um erro no ambiente de produção, utilizar a branch hotfix, faz a correção imediata. Solucionando o erro e fazendo o merge com o main e develop e não ocasionando a perda do nosso código.
+Para uma nova funcionalidade, utilzar a branch release, pegamos o que já está pronto no nosso ambiente de desenvolvimento e assim colocamos na branch principal.
+As branchs de suporte não possuem vida infinita como as branchs master e developer, elas podem ser deletadas conforme necessidade.
